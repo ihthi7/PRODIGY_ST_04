@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-# Replace with your BrowserStack credentials
+# BrowserStack credentials
 USERNAME = "ihthishaibrahim_IvxS7z"
 ACCESS_KEY = "xLy11F4ejTHsupKCvDmr"
 
